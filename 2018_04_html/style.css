@@ -1,0 +1,35 @@
+ h1 { color: red;}
+
+ #cssid {
+  color: blue;
+  text-align: right;
+ }
+
+ .cssclass {
+  color: green;
+  font-weight: bold;
+ }
+
+ #header {
+  background-color: khaki;
+  height: 80px;
+ }
+
+ #main {
+  float:left;
+  background-color: skyblue;
+  width: 80%;
+  height: 200px;
+ }
+
+ #sidebar {
+  float:right;
+  background-color: red;
+  width: 20%;
+  height: 200px;
+ }
+ #footer {
+  clear:both;
+  background-color: lightgreen;
+  height: 80px;
+ }
